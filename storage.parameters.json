@@ -1,0 +1,10 @@
+{
+    "parameters": {
+      "prefix": {
+        "value": "anton42"
+      },
+      "globalRedundancy": {
+        "value" :  true
+      }
+    }
+}
